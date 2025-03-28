@@ -166,3 +166,19 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Add participant info styling */
+.participant-info {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.participant-info img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.participant-info .name {
+  font-weight: bold;
+}
